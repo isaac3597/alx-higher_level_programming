@@ -10,4 +10,3 @@ x represents the number of elements to print
 x can be bigger than the length of my_list
 Returns the real number of elements printed
 You have to use try: / except:
-You are not allowed to import any mo
